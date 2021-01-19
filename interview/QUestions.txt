@@ -1,0 +1,7 @@
+Write a react code to inplement increase decrease counter functionality?
+Explain when we need to use callback inside set counter to access previous state?
+Do all asignments of codevolution's react series
+Q) Make a hook to perform crud operations on a javascript array of objects storing random data with fields :
+Random Name,
+Random Meeting Id,
+All four crud operations need to be implemented using React Hooks

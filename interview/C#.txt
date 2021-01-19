@@ -1,0 +1,13 @@
+Implement two sum leetcode question in C#
+Implement linked list in C#
+Do valid parentheis question in C#
+Tip:- Think in terms of object and make corresponding 'this' statements
+Explain why this is never null inside the calling object function...
+
+Write some cool C# to make Binary Tree implemented with a dictionary...
+
+Illustrate the statement:- "Hasttable elemets are key-value pairs stored in DictionaryEntry"; Are they both tightly bound?
+
+
+Illusrate how you can compile File using CommandLine.
+
