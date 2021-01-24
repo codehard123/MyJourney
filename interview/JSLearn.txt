@@ -1,0 +1,49 @@
+First Youtube english then youtube hindi and then docs no book
+Show how you can use prototype to make static objects in Javascript....
+Class has only one definitions:-regular function
+var creates objects in global space while let in local space;
+Show how javasctipt is a first-class function language?
+Tell the difference between let and var
+and difreentite between E2015 and ES6.
+=== vs == (demonstrate with code)
+Demonstrate the error "No initializer to constant type?"
+Placeholder value assigned by javascript is called ? ans- undefined
+ 
+
+Let us say I have code snippet as:- now complete the code snippet....
+const profile={ 
+firstName"",
+lastName:"",
+setName:function(name){
+
+}
+}
+ 
+
+Prototype based programing Javascript......
+IIFE- IMMEDIATELY INVOKED FUNCTION EXPRESSION
+Write an IIFE...
+
+Write code using this to prove that constants(const) are 'block scope'
+Give the difference between a function declaration and function expression?
+Explain async await in ES2017?
+What are Promises in JavaScript?
+Tell how stringify encodes req in Javascript.....
+Prototype does not make random assignments in Code.......
+Tell can you Create object of functions in JS........
+Ans is yes now show how to create them
+
+The document.write() works to delete the HTML only after DOM has fully loaded....And it will delete all existing HTML.....
+
+Tell about arguments object.........
+And how you can handle too many arguments......
+
+Give differencebwtween restparameterand arguments object......
+
+Incase of nested functions:- outer function cannot acess inner functions variables.....
+
+
+
+
+
+

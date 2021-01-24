@@ -1,3 +1,17 @@
+
+using System; // importing the System namespace
+What is a namespace?Define it!
+What can we do to remove escape sequence characters in C#?
+ Value Type and Reference Type give difference....
+Tell why we use nullable types....
+ Convert.toInt32() pe convert krenge..
+
+A namespace is a collection of classes,interfaces,structs,enums and delegates....
+->classes
+->interfaces
+->structs
+->enums
+->delegates
 Implement two sum leetcode question in C#
 Implement linked list in C#
 Do valid parentheis question in C#
@@ -6,8 +20,24 @@ Explain why this is never null inside the calling object function...
 
 Write some cool C# to make Binary Tree implemented with a dictionary...
 
-Illustrate the statement:- "Hasttable elemets are key-value pairs stored in DictionaryEntry"; Are they both tightly bound?
+Illustrate the statement:- "Hasttable elemets are key-value pairs stored in DictionaryEntry"; Are they both tightly copuled?(Ans No)
 
 
 Illusrate how you can compile File using CommandLine.
+
+In which using File is C#'s Hashtable present? Ans- using System.Collections
+Implement C# Linked List 
+
+
+Create a link list to store ludo data;
+Explain with example how to work with tuples. Create a link list with tuples and use destructuring to take out values out from the tuple...
+
+Implement Naresh Technologies Tuple C#?
+Note:- Tuple can't hold more than 8 values...
+
+Implement a Ludo Token's Link List in C#
+Sort a List of struct type in C#?
+
+List down the possible mistakes you do in coding....
+
 

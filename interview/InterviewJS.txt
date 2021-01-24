@@ -1,0 +1,1 @@
+Objects have prototypes not their classes because objects are in real life while classes are just templates and don't have any physical existence..

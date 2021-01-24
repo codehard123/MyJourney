@@ -5,3 +5,6 @@ Q) Make a hook to perform crud operations on a javascript array of objects stori
 Random Name,
 Random Meeting Id,
 All four crud operations need to be implemented using React Hooks
+
+Hot reloading doesn't clear out the state of the application instead it just freezes it out!!!
+
